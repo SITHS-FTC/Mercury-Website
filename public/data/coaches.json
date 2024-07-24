@@ -1,0 +1,14 @@
+{
+    "coaches": [
+        {
+            "name": "Mr. Colangelo",
+            "role": "Mr. Colangelo has helped with the development of our team from the beginning. He’s assisted with our outreach commitments, worked on financials, and has overall helped us to perform to our best ability.",
+            "img": "/images/members/colangelo.jpg"
+        },
+        {
+            "name": "Mr. Henriques",
+            "role": "Mr. Henriques has helped our team with the design principles for our bot. As an engineering teacher, he’s taught us the correct ways for development and provided us with the tools to accomplish our designs.",
+            "img": "/images/members/henriques.jpg"
+        }
+    ]
+}

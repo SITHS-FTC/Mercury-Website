@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    background-color: #1f1f1f;
+    overflow-x: hidden;
+}
+
+*, body, html {
+    color: white;
+    box-sizing: border-box;
+    /* overflow-x: hidden; */
+}
+
+@font-face { font-family: Ubuntu; src: url('/fonts/Ubuntu-Medium.ttf');}
+@font-face { font-family: Saira; src: url('/fonts/SairaCondensed-Regular.ttf');}
+@font-face { font-family: Saira; font-weight: bold; src: url('/fonts/SairaCondensed-Bold.ttf');}

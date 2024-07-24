@@ -1,0 +1,80 @@
+{
+    "members": [
+        {
+          "name": "Nicole Avshalumova",
+          "image": "/images/members/nicole.png",
+          "role": "Captain"
+        },
+        {
+          "name": "Masha Efimovich",
+          "image": "/images/members/masha.png",
+          "role": "Captain"
+        },
+        {
+          "name": "Justin Li",
+          "image": "/images/members/justin.png",
+          "role": "Build - CAD - Design"
+        },
+        {
+          "name": "Max Shabatayev",
+          "image": "/images/members/max.png",
+          "role": "Build - Code - CAD"
+        },
+        {
+          "name": "Shiphi Panicker",
+          "image": "/images/members/shiphi.png",
+          "role": "Build - Code - Graphics"
+        },
+        {
+          "name": "Nicholas Lee",
+          "image": "/images/members/nicholas.png",
+          "role": "Build - CAD"
+        },
+        {
+          "name": "Jonathan St. Juste",
+          "image": "/images/members/jonathan.png",
+          "role": "Code"
+        },
+        {
+          "name": "Barnett Ke",
+          "image": "/images/members/barnett.png",
+          "role": "Build"
+        },
+        {
+          "name": "Spencer Lee",
+          "image": "/images/members/spencer.png",
+          "role": "Graphics - Outreach"
+        },
+        {
+          "name": "Kangxi Yang",
+          "image": "/images/members/kangxi.png",
+          "role": "Outreach"
+        },
+        {
+          "name": "Sharon Ouyang",
+          "image": "/images/members/sharon.png",
+          "role": "Outreach"
+        },
+        {
+          "name": "Brandon Huang",
+          "image": "/images/members/brandon.png",
+          "role": "Outreach"
+        },
+        {
+          "name": "Katie Tan",
+          "image": "/images/members/katie.png",
+          "role": "Outreach"
+        },
+        {
+          "name": "Benjamin Fernandes",
+          "image": "/images/members/benjamin.png",
+          "role": "Outreach - CAD"
+        },
+        {
+          "name": "Jacob Yee",
+          "image": "/images/members/jacob.png",
+          "role": "Outreach"
+        }
+      ]
+      
+}
